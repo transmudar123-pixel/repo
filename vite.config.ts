@@ -6,7 +6,7 @@
 // You can pass additional config via defineConfig({ vite: { ... }, etc... }) if needed.
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
-const REPO_NAME = "Web-Oficial";
+const REPO_NAME = "repo";
 const BASE_PATH = `/${REPO_NAME}/`;
 
 export default defineConfig({
